@@ -1,0 +1,14 @@
+e:\Curso\C#\curso-balta-c#\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+e:\Curso\C#\curso-balta-c#\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+e:\Curso\C#\curso-balta-c#\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+e:\Curso\C#\curso-balta-c#\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+e:\Curso\C#\curso-balta-c#\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+e:\Curso\C#\curso-balta-c#\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
